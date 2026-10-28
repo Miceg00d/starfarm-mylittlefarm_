@@ -1,0 +1,14 @@
+{
+  "offlineEarningsMessageRu": [
+    "§7Нажмите, чтобы получить деньги",
+    "§7за время вашего отсутствия",
+    "",
+    "§7Всего заработано: §a${afk_income}"
+  ],
+  "offlineEarningsMessageEn": [
+    "§7Click to collect money",
+    "§7for the time you were offline",
+    "",
+    "§7Total earned: §a${afk_income}"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "§a✔ Улучшение травы!",
+        "description": "§7Уровень 1 достигнут",
+        "icon": {
+            "item": "minecraft:tallgrass",
+            "data": 1
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

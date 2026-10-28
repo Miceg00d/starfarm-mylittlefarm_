@@ -1,0 +1,169 @@
+{
+  "donate": {
+    "title": "Платные возможности",
+    "rows": 6,
+    "items": [
+      {
+        "key": "book",
+        "value": {
+          "slot": 1,
+          "name": "Бухгалтерия",
+          "lore": [
+            "§fКупив это, вы получаете возможность улучшать свою",
+            "§fферму, не выходя из амбара!",
+            "",
+            "§fСрок действия: §aНавсегда"
+          ],
+          "material": "BOOK",
+          "price": 300
+        }
+      }
+    ]
+  },
+  "idle": {
+    "title": "Оффлайн заработок",
+    "rows": 4,
+    "items": [
+      {
+        "key": "claim_reward",
+        "value": {
+          "slot": 18,
+          "name": "&aВесь доход",
+          "lore": "§eКликните, чтобы забрать весь заработок",
+          "material": "EMERALD_BLOCK",
+          "data": 0
+        }
+      },
+      {
+        "key": "wheat",
+        "value": {
+          "slot": 0,
+          "name": "&eДоход пшеницы",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "WHEAT",
+          "data": 0
+        }
+      },
+      {
+        "key": "potato",
+        "value": {
+          "slot": 1,
+          "name": "&eДоход картошки",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "POTATO_ITEM",
+          "data": 0
+        }
+      },
+      {
+        "key": "carrot",
+        "value": {
+          "slot": 2,
+          "name": "&eДоход морковки",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "CARROT_ITEM",
+          "data": 0
+        }
+      },
+      {
+        "key": "sugar_cane",
+        "value": {
+          "slot": 3,
+          "name": "&eДоход тростника",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "SUGAR_CANE",
+          "data": 0
+        }
+      },
+      {
+        "key": "pumpkin",
+        "value": {
+          "slot": 4,
+          "name": "&eДоход тыквы",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "PUMPKIN",
+          "data": 0
+        }
+      },
+      {
+        "key": "melon",
+        "value": {
+          "slot": 5,
+          "name": "&eДоход арбуза",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "MELON",
+          "data": 0
+        }
+      },
+      {
+        "key": "red_mushroom",
+        "value": {
+          "slot": 6,
+          "name": "&eДоход красного гриба",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "RED_MUSHROOM",
+          "data": 0
+        }
+      },
+      {
+        "key": "brown_mushroom",
+        "value": {
+          "slot": 7,
+          "name": "&eДоход коричневого гриба",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "BROWN_MUSHROOM",
+          "data": 0
+        }
+      },
+      {
+        "key": "rose",
+        "value": {
+          "slot": 8,
+          "name": "&eДоход розы",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "RED_ROSE",
+          "data": 0
+        }
+      },
+      {
+        "key": "lily",
+        "value": {
+          "slot": 9,
+          "name": "&eДоход лилии",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "RED_ROSE",
+          "data": 6
+        }
+      },
+      {
+        "key": "hermit",
+        "value": {
+          "slot": 10,
+          "name": "&eДоход пустынника",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "DEAD_BUSH",
+          "data": 0
+        }
+      },
+      {
+        "key": "nether",
+        "value": {
+          "slot": 11,
+          "name": "&eДоход адского нароста",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "NETHER_STALK",
+          "data": 0
+        }
+      },
+      {
+        "key": "chorus",
+        "value": {
+          "slot": 12,
+          "name": "&eДоход хоруса",
+          "lore": "$ref:offlineEarningsMessageRu",
+          "material": "CHORUS_FLOWER",
+          "data": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "prefix": {
+    "mlf": "&8[&2MyLittleFarm&8] "
+  },
+  "common": {
+    "clickable_reward_message": "Claim Reward"
+  },
+  "tutorial": {
+    "1": "&5Granny Manya&f: Hello, sweetie! I have a task for you: go and buy 1 wheat! It’s sold by Vasilich, who is located at the back!"
+  },
+  "product": {
+    "start": "Starting",
+    "end": "Ending"
+  },
+  "idle": {
+    "reward_received": " §has earned you §l$6",
+    "join": "While you were away, the farmers kept working! You won't forget to pay them for overtime, will you?",
+    "reject": "§cYou can only claim the reward after being offline for a minute!"
+  }
+}

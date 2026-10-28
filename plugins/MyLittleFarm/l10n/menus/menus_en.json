@@ -1,0 +1,193 @@
+{
+  "donate": {
+    "title": "Premium Features",
+    "rows": 6,
+    "items": [
+      {
+        "key": "book",
+        "value": {
+          "slot": 1,
+          "name": "Bookkeeping",
+          "lore": [
+            "§fBuying this gives you the opportunity to improve your",
+            "farm, without leaving the barn!",
+            "",
+            "§fThe expiry date: §3unlimited"
+          ],
+          "material": "BOOK",
+          "price": 300
+        }
+      }
+    ]
+  },
+  "idle": {
+    "title": "Offline Earnings",
+    "rows": 4,
+    "items": [
+      {
+        "key": "claim_reward",
+        "value": {
+          "slot": 18,
+          "name": "&aTotal Income",
+          "lore": "§eClick to collect all earnings",
+          "material": "EMERALD_BLOCK",
+          "data": 0
+        }
+      },
+      {
+        "key": "wheat",
+        "value": {
+          "slot": 0,
+          "name": "&eWheat Earnings",
+          "lore": "$ref:/offlineEarningsMessageEn",
+          "material": "WHEAT",
+          "data": 0
+        }
+      },
+      {
+        "key": "potato",
+        "value": {
+          "slot": 1,
+          "name": "&ePotato Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "POTATO_ITEM",
+          "data": 0
+        }
+      },
+      {
+        "key": "carrot",
+        "value": {
+          "slot": 2,
+          "name": "&eCarrot Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "CARROT_ITEM",
+          "data": 0
+        }
+      },
+      {
+        "key": "sugar_cane",
+        "value": {
+          "slot": 3,
+          "name": "&eSugar Cane Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "SUGAR_CANE",
+          "data": 0
+        }
+      },
+      {
+        "key": "pumpkin",
+        "value": {
+          "slot": 4,
+          "name": "&ePumpkin Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "PUMPKIN",
+          "data": 0
+        }
+      },
+      {
+        "key": "melon",
+        "value": {
+          "slot": 5,
+          "name": "&eMelon Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "MELON",
+          "data": 0
+        }
+      },
+      {
+        "key": "red_mushroom",
+        "value": {
+          "slot": 6,
+          "name": "&eRed Mushroom Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "RED_MUSHROOM",
+          "data": 0
+        }
+      },
+      {
+        "key": "brown_mushroom",
+        "value": {
+          "slot": 7,
+          "name": "&eBrown Mushroom Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "BROWN_MUSHROOM",
+          "data": 0
+        }
+      },
+      {
+        "key": "rose",
+        "value": {
+          "slot": 8,
+          "name": "&eRose Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "RED_ROSE",
+          "data": 0
+        }
+      },
+      {
+        "key": "lily",
+        "value": {
+          "slot": 9,
+          "name": "&eLily Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "RED_ROSE",
+          "data": 6
+        }
+      },
+      {
+        "key": "hermit",
+        "value": {
+          "slot": 10,
+          "name": "&eDead Bush Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "DEAD_BUSH",
+          "data": 0
+        }
+      },
+      {
+        "key": "nether",
+        "value": {
+          "slot": 11,
+          "name": "&eNether Wart Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "NETHER_STALK",
+          "data": 0
+        }
+      },
+      {
+        "key": "chorus",
+        "value": {
+          "slot": 12,
+          "name": "&eChorus Flower Earnings",
+          "lore": [
+            "$ref:/offlineEarningsMessageEn"
+          ],
+          "material": "CHORUS_FLOWER",
+          "data": 0
+        }
+      }
+    ]
+  }
+}

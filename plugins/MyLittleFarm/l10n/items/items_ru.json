@@ -1,0 +1,12 @@
+[
+  {
+    "key": "book",
+    "value": {
+      "name": "&6Accounting Book",
+      "lore": [
+        "&eТолько для настоящих бухгалтеров"
+      ],
+      "material": "BOOK"
+    }
+  }
+]

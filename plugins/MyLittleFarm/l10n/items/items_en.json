@@ -1,0 +1,12 @@
+[
+  {
+    "key": "book",
+    "value": {
+      "name": "&6Bookkeeping",
+      "lore": [
+        "&eFor real accountant only"
+      ],
+      "material": "BOOK"
+    }
+  }
+]

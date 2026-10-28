@@ -1,0 +1,18 @@
+location: world 24 91 159
+direction: NORTH
+leaders:
+  balance:
+    table: mlf_players
+    row: balance
+    title: §aТоп по балансу
+    format: '§7%s | §f%s §7- §a%s'
+  income:
+    table: mlf_players
+    row: income
+    title: §aТоп по доходу
+    format: '§7%s | §f%s §7- §a%s'
+  rebirths:
+    table: mlf_players
+    row: rebirths
+    title: §aТоп по перерождениям
+    format: '§7%s | §f%s §7- §a%s'
